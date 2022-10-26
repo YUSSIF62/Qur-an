@@ -1,0 +1,14 @@
+body{
+    
+    background-color: aqua;
+    border: 50px;
+    padding: 400;
+
+}
+
+audio{
+    align-content: center;
+    border: 10;
+    border-color: blue;
+    border-radius: 25px;
+}
